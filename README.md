@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shehani 👋
 
-<!--
-**shehanish/shehanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **iOS Developer** focused on building clean, scalable, user-friendly applications.  
+Right now I’m building my own apps and going deeper into **Swift** and **SwiftUI** to ship polished iOS experiences.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- **Transcendant** — full-stack project I’m proud of, showcasing collaboration and end-to-end delivery.  
+  Repo: [github.com/shehanish/transcendant](https://github.com/shehanish/transcendant)
+- **CPP09** — C++ project demonstrating core programming fundamentals, OOP, and problem solving.  
+  Repo: [github.com/shehanish/cpp09](https://github.com/shehanish/cpp09)
+- **Inception** — containerization & infrastructure project demonstrating Docker-based service orchestration and environment setup.  
+  Repo: [github.com/shehanish/inception](https://github.com/shehanish/inception)
+- **Upcoming iOS Applications** — I’m currently designing and building new iOS apps as I grow my Swift/SwiftUI skills (repos and demos coming soon).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **iOS:** Swift (learning), SwiftUI, UIKit (learning), Concurrency (async/await)
+- **Languages:** C, C++, Swift
+- **Backend / Web:** REST APIs, authentication, client/server architecture (from Transcendant)
+- **DevOps / Infra:** Docker, Docker Compose (Inception), containers, basic networking
+- **Tools:** Git & GitHub, Linux, Makefiles, shell basics, Xcode
+- **Core CS:** OOP, debugging, problem solving, clean code practices
+
+## 📌 What I'm working on
+- Building and shipping my own iOS apps (SwiftUI + modern iOS patterns)
+- Improving iOS fundamentals: **architecture (MVVM)**, networking, persistence (**Core Data / SwiftData**), and testing
+
+## 📫 Contact
+- LinkedIn: [shehani-hansi](https://www.linkedin.com/in/shehani-hansi/)
+- Email: [shehani1207@gmail.com](mailto:shehani1207@gmail.com)
