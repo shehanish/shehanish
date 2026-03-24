@@ -1,7 +1,19 @@
 # Hi, I'm Shehani 👋
 
-Aspiring **iOS Developer** focused on building clean, scalable, user-friendly applications.  
-Right now I’m building my own apps and going deeper into **Swift** and **SwiftUI** to ship polished iOS experiences.
+<div align="center">
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0EA5E9?style=for-the-badge&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+</div>
+
+> Aspiring **iOS Developer** passionate about building clean, scalable, and user-friendly applications with modern design patterns.
+
+Currently crafting iOS apps and deepening my expertise in **Swift** and **SwiftUI** to deliver polished, production-ready experiences. 🎯
 
 ## 🚀 Featured Projects
 - **Transcendant** — full-stack project I’m proud of, showcasing collaboration and end-to-end delivery.  
