@@ -16,8 +16,8 @@
 Currently crafting iOS apps and deepening my expertise in **Swift** and **SwiftUI** to deliver polished, production-ready experiences. 🎯
 
 ## 🚀 Featured Projects
-- **Transcendant** — full-stack project I’m proud of, showcasing collaboration and end-to-end delivery.  
-  Repo: [github.com/shehanish/transcendant](https://github.com/shehanish/transcendant)
+- **Transcendence** — full-stack project I'm proud of, showcasing collaboration and end-to-end delivery.  
+  Repo: [github.com/mdomnik/Transcendence](https://github.com/mdomnik/Transcendence)
 - **CPP09** — C++ project demonstrating core programming fundamentals, OOP, and problem solving.  
   Repo: [github.com/shehanish/cpp09](https://github.com/shehanish/cpp09)
 - **Inception** — containerization & infrastructure project demonstrating Docker-based service orchestration and environment setup.  
