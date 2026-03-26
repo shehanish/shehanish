@@ -16,7 +16,9 @@
 Currently crafting iOS apps and deepening my expertise in **Swift** and **SwiftUI** to deliver polished, production-ready experiences. 🎯
 
 ## 🚀 Featured Projects
-- **Transcendence** — full-stack project I'm proud of, showcasing collaboration and end-to-end delivery.  
+ - **SmartNotes** — an iOS note-taking app built with Swift and SwiftUI focused on fast capture, clean organization, and optional cross-device syncing.  
+   Repo: [github.com/shehanish/SmartNotes](https://github.com/shehanish/SmartNotes)
+ - **Transcendence** — full-stack project I'm proud of, showcasing collaboration and end-to-end delivery.  
   Repo: [github.com/mdomnik/Transcendence](https://github.com/mdomnik/Transcendence)
 - **CPP09** — C++ project demonstrating core programming fundamentals, OOP, and problem solving.  
   Repo: [github.com/shehanish/cpp09](https://github.com/shehanish/cpp09)
