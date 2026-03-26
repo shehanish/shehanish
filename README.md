@@ -15,7 +15,7 @@
 
 Currently crafting iOS apps and deepening my expertise in **Swift** and **SwiftUI** to deliver polished, production-ready experiences. 🎯
 
-## 🚀 Featured Projects
+##  Featured Projects
  - **SmartNotes** — an iOS note-taking app built with Swift and SwiftUI focused on fast capture, clean organization, and optional cross-device syncing.  
    Repo: [github.com/shehanish/SmartNotes](https://github.com/shehanish/SmartNotes)
  - **Transcendence** — full-stack project I'm proud of, showcasing collaboration and end-to-end delivery.  
@@ -26,7 +26,7 @@ Currently crafting iOS apps and deepening my expertise in **Swift** and **SwiftU
   Repo: [github.com/shehanish/inception](https://github.com/shehanish/inception)
 - **Upcoming iOS Applications** — I’m currently designing and building new iOS apps as I grow my Swift/SwiftUI skills (repos and demos coming soon).
 
-## 🧰 Tech Stack
+##  Tech Stack
 - **iOS:** Swift (learning), SwiftUI, UIKit (learning), Concurrency (async/await)
 - **Languages:** C, C++, Swift
 - **Backend / Web:** REST APIs, authentication, client/server architecture (from Transcendant)
@@ -34,10 +34,10 @@ Currently crafting iOS apps and deepening my expertise in **Swift** and **SwiftU
 - **Tools:** Git & GitHub, Linux, Makefiles, shell basics, Xcode
 - **Core CS:** OOP, debugging, problem solving, clean code practices
 
-## 📌 What I'm working on
+##  What I'm working on
 - Building and shipping my own iOS apps (SwiftUI + modern iOS patterns)
 - Improving iOS fundamentals: **architecture (MVVM)**, networking, persistence (**Core Data / SwiftData**), and testing
 
-## 📫 Contact
+##  Contact
 - LinkedIn: [shehani-hansi](https://www.linkedin.com/in/shehani-hansi/)
 - Email: [shehani1207@gmail.com](mailto:shehani1207@gmail.com)
