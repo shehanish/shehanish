@@ -25,6 +25,12 @@ Currently crafting iOS apps and deepening my expertise in **Swift** and **SwiftU
 * **What I Learned:** Built a privacy-first mental health app handling sensitive user data securely on-device, integrated real-time AI conversations using OpenAI API, and designed interactive UI animations with SwiftUI for guided breathing and mindfulness experiences.
 
 ---
+### 🎓 Swifty Companion
+*An advanced native iOS application developed as part of the 42 specialized curriculum.*
+* **[Link to Repository](https://github.com/shehanish/Swifty-Companion)**
+* **Tech Stack:** SwiftUI, MVVM, Swift 6, OAuth2, Git
+* **Key Features:** OAuth2 authentication with the 42 API, real-time peer search, dynamic progress visualization, and responsive multi-view navigation.
+* **The 42 Challenge:** Built without standard tutorials, relying on official Apple documentation, API references, and peer code reviews.
 
  - **SmartNotes** — an iOS note-taking app built with Swift and SwiftUI focused on fast capture, clean organization, and optional cross-device syncing.  
     Repo: [github.com/shehanish/SmartNotes](https://github.com/shehanish/SmartNotes)
