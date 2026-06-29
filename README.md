@@ -15,45 +15,46 @@
 
 Currently crafting iOS apps and deepening my expertise in **Swift** and **SwiftUI** to deliver polished, production-ready experiences. 🎯
 
-##  Featured Projects
+## 🌟 Highlighted Projects
 
 ### 📱 Mend
 *A fully-featured, native iOS application for emotional wellness and breakup recovery, built completely from scratch.*
-* **[Link to Repository](https://github.com/shehanish/Breakup_tracker)**
-* **Tech Stack:** SwiftUI, Swift Concurrency (async/await), MVVM Architecture, SwiftData (local persistence), OpenAI API
-* **Key Features:** AI-powered emotional companion for processing feelings and self-love affirmations, no-contact counter tracker, the Panic Room with guided breathing & grounding techniques, emergency crisis lifelines, on-device privacy
-* **What I Learned:** Built a privacy-first mental health app handling sensitive user data securely on-device, integrated real-time AI conversations using OpenAI API, and designed interactive UI animations with SwiftUI for guided breathing and mindfulness experiences.
+* **[Repository](https://github.com/shehanish/Breakup_tracker)** | **Tech Stack:** SwiftUI, Swift Concurrency, MVVM, SwiftData, OpenAI API
+* **Key Features:** AI-powered emotional companion, no-contact counter tracker, Panic Room with guided breathing & grounding techniques
+* **What I Learned:** Privacy-first mental health app, secure on-device data handling, real-time AI conversations, interactive UI design
 
 ---
+
 ### 🎓 Swifty Companion
 *An advanced native iOS application developed as part of the 42 specialized curriculum.*
-* **[Link to Repository](https://github.com/shehanish/Swifty-Companion)**
-* **Tech Stack:** SwiftUI, MVVM, Swift 6, OAuth2, Git
-* **Key Features:** OAuth2 authentication with the 42 API, real-time peer search, dynamic progress visualization, and responsive multi-view navigation.
-* **The 42 Challenge:** Built without standard tutorials, relying on official Apple documentation, API references, and peer code reviews.
+* **[Repository](https://github.com/shehanish/Swifty-Companion)** | **Tech Stack:** SwiftUI, MVVM, Swift 6, OAuth2
+* **Key Features:** OAuth2 authentication with 42 API, real-time peer search, dynamic progress visualization, responsive multi-view navigation
+* **The 42 Challenge:** Built without standard tutorials, relying on official Apple documentation and peer code reviews
 
-### SmartNotes** — an iOS note-taking app built with Swift and SwiftUI focused on fast capture, clean organization, and optional cross-device syncing.  
-    Repo: [github.com/shehanish/SmartNotes](https://github.com/shehanish/SmartNotes)
-### Transcendence** — full-stack project I'm proud of, showcasing collaboration and end-to-end delivery.  
-   Repo: [github.com/mdomnik/Transcendence](https://github.com/mdomnik/Transcendence)
-### CPP09** — C++ project demonstrating core programming fundamentals, OOP, and problem solving.  
-   Repo: [github.com/shehanish/cpp09](https://github.com/shehanish/cpp09)
-### Inception** — containerization & infrastructure project demonstrating Docker-based service orchestration and environment setup.  
-   Repo: [github.com/shehanish/inception](https://github.com/shehanish/inception)
-### Upcoming iOS Applications** — I'm currently designing and building new iOS apps as I grow my Swift/SwiftUI skills (repos and demos coming soon).
+---
 
-##  Tech Stack
+## Other Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **📝 SmartNotes** | Fast note-taking iOS app with clean organization and optional cross-device syncing. | [Repo](https://github.com/shehanish/SmartNotes) |
+| **🎮 Transcendence** | Full-stack collaborative project showcasing end-to-end delivery and system design. | [Repo](https://github.com/mdomnik/Transcendence) |
+| **⚙️ CPP09** | C++ project demonstrating OOP, algorithms, and problem solving. | [Repo](https://github.com/shehanish/cpp09) |
+| **🐳 Inception** | Docker-based service orchestration and infrastructure setup. | [Repo](https://github.com/shehanish/inception) |
+| **🚀 Upcoming iOS Apps** | Currently designing and building new iOS applications (repos coming soon). | — |
+
+## Tech Stack
 - **iOS:** Swift, SwiftUI, UIKit, Concurrency (async/await)
 - **Languages:** C, C++, Swift
-- **Backend / Web:** REST APIs, authentication, client/server architecture (from Transcendant)
-- **DevOps / Infra:** Docker, Docker Compose (Inception), containers, basic networking
+- **Backend / Web:** REST APIs, authentication, client/server architecture
+- **DevOps / Infra:** Docker, Docker Compose, containers, networking
 - **Tools:** Git & GitHub, Linux, Makefiles, shell basics, Xcode
 - **Core CS:** OOP, debugging, problem solving, clean code practices
 
-##  What I'm working on
+## What I'm working on
 - Building and shipping my own iOS apps (SwiftUI + modern iOS patterns)
 - Improving iOS fundamentals: **architecture (MVVM)**, networking, persistence (**Core Data / SwiftData**), and testing
 
-##  Contact
+## Contact
 - LinkedIn: [shehani-hansi](https://www.linkedin.com/in/shehani-hansi/)
 - Email: [shehani1207@gmail.com](mailto:shehani1207@gmail.com)
