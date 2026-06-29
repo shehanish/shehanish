@@ -32,15 +32,15 @@ Currently crafting iOS apps and deepening my expertise in **Swift** and **SwiftU
 * **Key Features:** OAuth2 authentication with the 42 API, real-time peer search, dynamic progress visualization, and responsive multi-view navigation.
 * **The 42 Challenge:** Built without standard tutorials, relying on official Apple documentation, API references, and peer code reviews.
 
- - **SmartNotes** — an iOS note-taking app built with Swift and SwiftUI focused on fast capture, clean organization, and optional cross-device syncing.  
+### SmartNotes** — an iOS note-taking app built with Swift and SwiftUI focused on fast capture, clean organization, and optional cross-device syncing.  
     Repo: [github.com/shehanish/SmartNotes](https://github.com/shehanish/SmartNotes)
- - **Transcendence** — full-stack project I'm proud of, showcasing collaboration and end-to-end delivery.  
+### Transcendence** — full-stack project I'm proud of, showcasing collaboration and end-to-end delivery.  
    Repo: [github.com/mdomnik/Transcendence](https://github.com/mdomnik/Transcendence)
-- **CPP09** — C++ project demonstrating core programming fundamentals, OOP, and problem solving.  
+### CPP09** — C++ project demonstrating core programming fundamentals, OOP, and problem solving.  
    Repo: [github.com/shehanish/cpp09](https://github.com/shehanish/cpp09)
-- **Inception** — containerization & infrastructure project demonstrating Docker-based service orchestration and environment setup.  
+### Inception** — containerization & infrastructure project demonstrating Docker-based service orchestration and environment setup.  
    Repo: [github.com/shehanish/inception](https://github.com/shehanish/inception)
-- **Upcoming iOS Applications** — I'm currently designing and building new iOS apps as I grow my Swift/SwiftUI skills (repos and demos coming soon).
+### Upcoming iOS Applications** — I'm currently designing and building new iOS apps as I grow my Swift/SwiftUI skills (repos and demos coming soon).
 
 ##  Tech Stack
 - **iOS:** Swift, SwiftUI, UIKit, Concurrency (async/await)
