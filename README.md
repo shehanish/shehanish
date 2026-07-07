@@ -15,7 +15,32 @@
 
 Currently crafting iOS apps and deepening my expertise in **Swift** and **SwiftUI** to deliver polished, production-ready experiences. 🎯
 
-## 🌟 Highlighted Projects
+### 📱 [Healing Tracker]
+*A fully-featured, native iOS application built completely from scratch.*
+* **[Link to Repository](https://github.com/shehanish/your-repo-name)**
+* **Tech Stack:** SwiftUI, Swift Concurrency (async/await), MVVM Architecture, [e.g., CoreData / URLSession]
+
+<p align="center">
+  <img src="docs/screenshot2.png" width="150" />
+  <img src="docs/screenshot1.png" width="150" />
+</p>
+
+*Mend is a private, local-first iOS wellness app for people who want a softer place to process their feelings. It combines daily mood check-ins, AI-powered reflections, a guided journal, and a calm space for moments of anxiety — all stored privately on your device.
+
+<p align="center">
+  <img src="docs/screenshot5.png" width="150" />
+  <img src="docs/screenshot6.png" width="150" />
+</p>
+
+* **Key Features:** AI-powered emotional companion, no-contact counter tracker, Panic Room with guided breathing & grounding techniques
+* **What I Learned:** Privacy-first mental health app, secure on-device data handling, real-time AI conversations, interactive UI design
+
+### 🎓 [Name of Your 42 Advanced iOS Project]
+*An advanced mobile application developed as part of the 42 specialized curriculum.*
+* **[Link to Repository](https://github.com/shehanish/your-repo-name)**
+* **Tech Stack:** [SwiftUI / UIKit], [Architecture, e.g., MVVM or MVC], Git
+* **Key Features:** [e.g., Multi-view navigation, authentication flow, parsing complex JSON structures]
+* **The 42 Challenge:** Built entirely without standard tutorials, relying purely on official Apple documentation and peer code reviews.
 
 ### 📱 Mend
 *A fully-featured, native iOS application for emotional wellness and breakup recovery, built completely from scratch.*
