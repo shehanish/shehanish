@@ -17,7 +17,7 @@ Currently crafting iOS apps and deepening my expertise in **Swift** and **SwiftU
 
 ### 📱 [Healing Tracker]
 *A fully-featured, native iOS application built completely from scratch.*
-* **[Link to Repository](https://github.com/shehanish/your-repo-name)**
+* **[Link to Repository](https://github.com/shehanish/Mend)**
 * **Tech Stack:** SwiftUI, Swift Concurrency (async/await), MVVM Architecture, [e.g., CoreData / URLSession]
 
 <p align="center">
