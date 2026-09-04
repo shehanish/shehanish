@@ -3,17 +3,21 @@
 <div align="center">
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0EA5E9?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 </div>
 
-> Aspiring **iOS Developer** passionate about building clean, scalable, and user-friendly applications with modern design patterns.
+> **Mobile Engineer** passionate about building clean, scalable, and user-friendly applications across iOS and Android with modern design patterns.
 
-Currently crafting iOS apps and deepening my expertise in **Swift** and **SwiftUI** to deliver polished, production-ready experiences. 🎯
+Currently crafting native and cross-platform mobile apps, deepening my expertise in **Swift**, **SwiftUI**, **Kotlin**, **Jetpack Compose**, and **Kotlin Multiplatform** to deliver polished, production-ready experiences. 🎯
 
 ### 📱 [Healing Tracker]
 *A fully-featured, native iOS application built completely from scratch.*
@@ -66,19 +70,19 @@ Currently crafting iOS apps and deepening my expertise in **Swift** and **SwiftU
 | **🎮 Transcendence** | Full-stack collaborative project showcasing end-to-end delivery and system design. | [Repo](https://github.com/mdomnik/Transcendence) |
 | **⚙️ CPP09** | C++ project demonstrating OOP, algorithms, and problem solving. | [Repo](https://github.com/shehanish/cpp09) |
 | **🐳 Inception** | Docker-based service orchestration and infrastructure setup. | [Repo](https://github.com/shehanish/inception) |
-| **🚀 Upcoming iOS Apps** | Currently designing and building new iOS applications (repos coming soon). | — |
+| **🚀 Upcoming Mobile Apps** | Currently designing and building new iOS and Android applications (repos coming soon). | — |
 
 ## Tech Stack
-- **iOS:** Swift, SwiftUI, UIKit, Concurrency (async/await)
-- **Languages:** C, C++, Swift
+- **Mobile:** Swift, SwiftUI, UIKit, Kotlin, Kotlin Multiplatform, Jetpack Compose, Concurrency (async/await)
+- **Languages:** C, C++, Swift, Kotlin
 - **Backend / Web:** REST APIs, authentication, client/server architecture
 - **DevOps / Infra:** Docker, Docker Compose, containers, networking
-- **Tools:** Git & GitHub, Linux, Makefiles, shell basics, Xcode
+- **Tools:** Git & GitHub, Linux, Makefiles, shell basics, Xcode, Android Studio
 - **Core CS:** OOP, debugging, problem solving, clean code practices
 
 ## What I'm working on
-- Building and shipping my own iOS apps (SwiftUI + modern iOS patterns)
-- Improving iOS fundamentals: **architecture (MVVM)**, networking, persistence (**Core Data / SwiftData**), and testing
+- Building and shipping mobile apps across iOS and Android (**SwiftUI**, **Jetpack Compose**, **Kotlin Multiplatform**)
+- Improving mobile fundamentals: **architecture (MVVM)**, networking, persistence (**Core Data / SwiftData**), and testing
 
 ## Contact
 - LinkedIn: [shehani-hansi](https://www.linkedin.com/in/shehani-hansi/)
